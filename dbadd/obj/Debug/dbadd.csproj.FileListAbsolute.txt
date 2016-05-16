@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\dbadd\dbadd\bin\Debug\dbadd.exe.config
+c:\users\user\documents\visual studio 2013\Projects\dbadd\dbadd\bin\Debug\dbadd.exe
+c:\users\user\documents\visual studio 2013\Projects\dbadd\dbadd\bin\Debug\dbadd.pdb
+c:\users\user\documents\visual studio 2013\Projects\dbadd\dbadd\obj\Debug\dbadd.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\dbadd\dbadd\obj\Debug\dbadd.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\dbadd\dbadd\obj\Debug\dbadd.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\dbadd\dbadd\obj\Debug\dbadd.exe
+c:\users\user\documents\visual studio 2013\Projects\dbadd\dbadd\obj\Debug\dbadd.pdb
+c:\users\user\documents\visual studio 2013\Projects\dbadd\dbadd\obj\Debug\dbadd.RAWS.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\dbadd\dbadd\obj\Debug\dbadd.Form2.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\dbadd\dbadd\obj\Debug\dbadd.Form3.resources
