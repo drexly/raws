@@ -5,6 +5,7 @@ Integrated English Learning Software for Windows Supporting Transparent UI mode 
 
 Developed In C# WinForms on VS2014
 
+* * *
 ### Summerization
 
 1.단어 입력 및 실시간 저장(Enter Key로 손쉽게 다음항목 focus 가능) 기본 입력 포맷: 영단어,한글 뜻, 유의어 반의어 및 부가설명(옵션 항목)
@@ -19,6 +20,7 @@ Developed In C# WinForms on VS2014
 
 ![https://github.com/drexly/raws](/intro/b.png?raw=true "maximized UI")
 
+* * *
 ### Details
 
 개인 영단어-숙어 학습 생산성 향상을 위해 만든 학습 플랫폼으로 컴퓨터에서 영문 독해 시 모르는 새로운 어구를 학습할 때 
@@ -37,6 +39,7 @@ Developed In C# WinForms on VS2014
 
 ![https://github.com/drexly/raws](/intro/c.png?raw=true "Initialized overall")
 
+* * *
 ### Function Keys in Use: 
 
 #### General Function Key
